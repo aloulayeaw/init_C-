@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\TP_Cargaison\TP_Cargaison\bin\Debug\TP_Cargaison.exe.config
+C:\Users\HP\source\repos\TP_Cargaison\TP_Cargaison\bin\Debug\TP_Cargaison.exe
+C:\Users\HP\source\repos\TP_Cargaison\TP_Cargaison\bin\Debug\TP_Cargaison.pdb
+C:\Users\HP\source\repos\TP_Cargaison\TP_Cargaison\obj\Debug\TP_Cargaison.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TP_Cargaison\TP_Cargaison\obj\Debug\TP_Cargaison.Properties.Resources.resources
+C:\Users\HP\source\repos\TP_Cargaison\TP_Cargaison\obj\Debug\TP_Cargaison.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\TP_Cargaison\TP_Cargaison\obj\Debug\TP_Cargaison.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TP_Cargaison\TP_Cargaison\obj\Debug\TP_Cargaison.exe
+C:\Users\HP\source\repos\TP_Cargaison\TP_Cargaison\obj\Debug\TP_Cargaison.pdb
